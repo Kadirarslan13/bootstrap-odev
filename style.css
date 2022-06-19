@@ -1,0 +1,19 @@
+.bg-color {
+    background-color: #E9ECEF ;
+}
+.center {
+    text-align: center;
+}
+.inside {
+    list-style-position: inside;
+}
+.width {
+    padding: 20px;
+    
+}
+.purple {
+    color: purple;
+}
+.margin-top {
+    margin-top: 30px;
+}
